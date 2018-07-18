@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Google test automation suite">
+<test name="different feature test">
+
+<classes>
+	<class name="com.testNG.Assertverification"/>
+	<class name="com.testNG.DependsOn"/>
+	<class name="com.testNG.ExpectedException"/>
+	<class name="com.testNG.GoogleTest"/>
+	<class name="com.testNG.InvocationCountTest"/>
+</classes>
+
+
+</test>
+</suite>
